@@ -1,0 +1,48 @@
+***POBRE THEFT AUTO V 1.0***
+
+GRUPO:
+- Arthur Montoya Campos Pereira | RA: 20761385
+- Augusto de Arruda Kono | RA:20760841
+- Larissa Fontes Naoe | RA: 20854181
+- Victor Eduardo Santos Silva | RA: 20778071
+
+
+Obrigado por jogar POBRE THEFT AUTO! Esse jogo único irá te colocar no controle de um veículo em busca de apenas uma coisa: dinheiro. Controle o veículo dentre as estreitas ruas de Neon Pallete Town para conseguir o máximo de dinheiro possível dentro do tempo limite!
+
+
+----COMO ABRIR O JOGO----
+DOWNLOAD DO JOGO: Abra o link do github e baixe o zip
+
+https://github.com/augustoko/PobreTheftAuto
+
+Depois, abra o projeto dentro do Netbeans (versão 8) e clique em "executar". A janela do jogo será aberta em modo fullscreen.
+
+
+----AVISO----
+Para ter certeza de que o seu teclado está sendo reconhecido, clique na tela/janela do jogo para assegurar que ela está selecionada e assim seu teclado será reconhecido e você já pode começar a jogar.
+
+!!Resolução recomendada de monitor: 1366x768 !!
+
+O jogo pode dar umas travadinhas, pois está rodando a 60 FPS
+
+
+----CONTROLES----
+No menu inicial, aperte a tecla ENTER para iniciar o jogo.
+
+Pressione ESC no menu inicial para fechar o jogo.
+
+Pressione ESC durante o jogo para retornar ao menu inicial.
+
+Utilize as setas do teclado OU as teclas AWSD para movimentar seu veículo.
+
+
+----REGRAS----
+Seu intuito é coletar o dinheiro espalhado pelo mapa. Pelo mapa estão distribuidos caixas de dinheiro e para pegá-las é necessário somente dirigir sobre elas. Quanto maior a caixa, mais dinheiro você ganha. Elas aparecem aleatoriamente no mapa, então seja rápido para pegá-las! O layout do mapa também é aleatório, então toda jogatina será uma experiência diferente.
+
+O jogo inicia na FASE 1, onde o jogador possui 60 segundos para coletar 4000 pontos. Nessa fase, é mais fácil controlar o veículo, pois ele é mais lento. Ao coletar 4000 pontos, uma tela mostra que o jogador concluiu a fase 1. O jogador então deve apertar ENTER para iniciar a fase 2.
+
+Na FASE 2, o jogo aumenta de dificuldade. O tempo diminui para apenas 30 segundos e o jogador deve coletar 6000 pontos. A velocidade do veículo aumenta consideravelmente, deixando-o mais difícil de ser controlado e aumentando o desafio de completar a fase. Ao coletar os 6000 pontos, o jogador finaliza o jogo.
+
+Caso o jogador falhe em coletar a quantia de pontos na fase 1 ou fase 2, uma tela de game over irá aparecer com a mensagem "Você foi preso :)". O jogador então tem a opção de apertar ENTER para voltar ao menu inicial ou apertar ESC para sair do jogo.
+
+
